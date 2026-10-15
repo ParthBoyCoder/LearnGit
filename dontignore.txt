@@ -1,0 +1,2 @@
+I am a ignored file type (.txt)
+But please dont ignore me!
