@@ -8,3 +8,4 @@ c=True
 d="(remote) Just made some changes to understand how multiple commits are handled"
 
 e=input("This change was made to understand branching")
+#Last change was merged to master, for difference, here is another change
