@@ -6,3 +6,5 @@ a=10
 b="(local) Just made some changes to understand how multiple commits are handled"
 c=True
 d="(remote) Just made some changes to understand how multiple commits are handled"
+
+e=input("This change was made to understand branching")
